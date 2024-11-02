@@ -1,5 +1,5 @@
 
-# My Java Projects 💻
+# Java Projects 💻
 
 This is my Java projects (has no license) I have been developing since November 1, 2024, for my presentation. It is designed to showcase my understanding of Java programming and my ability to solve complex problems through coding. This project reflects my dedication to learning and my creativity in implementing effective solutions using Java’s powerful features. I hope that by sharing this work, others can gain insights and inspiration for their own projects. Please feel free to explore and utilize the code I have provided, as it may serve as a valuable resource for your own Java programming endeavors.
 
@@ -16,8 +16,10 @@ Java is a high-level, object-oriented programming language that is designed to b
 
 ## The Projects 🔰
 
+You may see some warnings from Windows, but don't worry—these applications are safe and will not harm your computer. I don't have the resources to sign my application at the moment. I apologize for any inconvenience this may cause.
+
 ### Mini-Application Projects
-- **Calculator** ([Download here](#www.google.com) - November 1, 2024)
+- **Calculator** ([Download Here](https://download1503.mediafire.com/e2mj9kqvo9pgihjUGXPZRoziLrjTmiu3Kj2uplqjst1FnHo9H8qU5_V-6S-eWdnPb9n8vwZp5_71tKxDA2kuOmDPjPx_Khc3fJ4kjCNdw0KYIU90BqUI_ad3XycoEw7i-vdkCgxCUJJHVDALEvZ5Yq_4dh22qJ9VEIP5BXbkLQ/ibt682jhlv6nbmr/Calculator.exe)) - November 1, 2024)
 
 ### Main-Application Projects
 - ...
